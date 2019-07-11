@@ -10,23 +10,23 @@ Implementing queries on huge amount of data is difficult and Spark make our job 
 
 # System Architecture
 
-![SystemArchitecture](https://user-images.githubusercontent.com/18304197/61027140-13f8a500-a3d3-11e9-9158-615e601e7e3e.png)
+![SystemArchitecture](https://user-images.githubusercontent.com/18304197/61031713-b28a0380-a3dd-11e9-9992-5b732dbef3cc.png)
 
 
 # Prerequisites 
 
-Install Python 
+Install Python :: 
 
 Download latest version of [Python](https://www.python.org/downloads/)
 
 [Pycharm](https://www.jetbrains.com/pycharm/) IDE can be used for easy work.
 
 
-Install Spark RDD
+Install Spark RDD ::
 
 [Tutorial](https://spark.apache.org/docs/latest/index.html) for installing spark
 
-Install PySpark
+Install PySpark ::
 
 Pyspark can be installed by executing below command in terminal or IDE.
 
