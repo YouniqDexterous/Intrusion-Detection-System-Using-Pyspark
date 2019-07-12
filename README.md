@@ -44,6 +44,6 @@ $ pip install pyspark
 
 # Contribution 
 
-Feel free to add your ideas.
+Feel free to add your ideas or any changes.
 
 
