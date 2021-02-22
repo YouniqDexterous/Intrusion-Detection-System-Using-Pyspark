@@ -1,6 +1,10 @@
 # Intrusion-Detection-System-Using-Pyspark
 Project that gives idea on how to use Pyspark on UNSW-NB datasets used for intrusion detection.
 
+
+# IEEE Xplore
+[ ICCUBEA Conference Publication Link ](https://ieeexplore.ieee.org/abstract/document/9129587 "IEEE Paper Title: Design and Evaluation of Scalable Intrusion Detection System Using Machine Learning and Apache Spark")
+
 # PySpark
 PySpark is collaboration of Apache Spark and Python.
 
